@@ -2,7 +2,7 @@
 <div class="foot">
     <p>
         还没有账户？
-        <a href="#">立即注册！</a>
+        <a v-link="{ path: '/regist' }">立即注册！</a>
     </p>
 </div>
 </template>

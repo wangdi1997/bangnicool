@@ -7,13 +7,18 @@
       </legend>
       <input type="text" placeholder="用户名" name="username"/>
       <input type="password" placeholder="密码" name="password"/>
-      <input type="submit" value="Login"/>
+      <input type="submit" value="Log In"/>
     </form>
+    <foot></foot>
   </div>
 </template>
 
 <script>
+import Foot from './Foot'
 export default {
+  components: {
+    Foot
+  }
 }
 </script>
 

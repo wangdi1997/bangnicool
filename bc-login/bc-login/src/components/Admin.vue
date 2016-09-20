@@ -39,5 +39,4 @@ export default {
   }
 }
 </script>
-
 <style src="../assets/side-menu.css" lang="css"></style>

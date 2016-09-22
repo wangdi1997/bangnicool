@@ -12,10 +12,10 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 .foot {
   text-align: center;
-  color: white;
+  color: black;
   margin: 20px auto;
 }
 
